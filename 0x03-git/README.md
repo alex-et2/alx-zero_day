@@ -1,1 +1,1 @@
-4. Collaboration: be up to date
+Code it and push it to github
